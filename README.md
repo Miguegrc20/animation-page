@@ -1,2 +1,2 @@
 # pagina-prueba
-Página web con animaciones y transiciones (índice)
+A web page with transitions and animations (Index)
